@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="madGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#1e3a8a" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#madGrad)"/>
+  <path d="M120 370V142h50l76 138 76-138h50v228h-48V212l-66 120h-24l-66-120v158z" fill="#ffffff"/>
+  <rect x="96" y="410" width="320" height="24" rx="12" fill="#60a5fa" opacity="0.8"/>
+</svg>
